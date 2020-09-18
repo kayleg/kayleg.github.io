@@ -1,4 +1,4 @@
-baseURL = "https://www.kaylegishen.com/"
+baseURL = "https://kayleg.github.io/"
 languageCode = "en-us"
 title = "Kayle Gishen"
 theme = "papermod"
@@ -16,5 +16,5 @@ theme = "papermod"
   ShowReadingTime= true
 [params.homeInfoParams]
   title = "Hi there 👋"
-  content = "I'm an Computer Scientist who loves to create simple solutions to hard problems and this is my blog."
+  content = "I'm a Computer Scientist who loves to create simple solutions to hard problems and this is my blog."
 
