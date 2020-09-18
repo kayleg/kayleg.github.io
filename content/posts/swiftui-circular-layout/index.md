@@ -9,8 +9,10 @@ date: 2020-09-18T16:35:28-04:00
 draft: false
 ---
 
-Hi everyone, I’m going to show you how to create this view in SwiftUI. We are
-going to focus on the layout of the mini circles.
+Hi everyone, I’m going to show you how to create this view in SwiftUI.
+
+![](images/circular_layout.png)
+_We are going to focus on the layout of the mini circles._
 
 Before we dive in, I recommend you grab the base code for this example from this
 [gist](https://gist.github.com/kayleg/9926c5f8d169fe5789916ee1abc8484e#file-circlelayoutexercise-swift).
