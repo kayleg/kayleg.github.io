@@ -1,0 +1,20 @@
+baseURL = "https://www.kaylegishen.com/"
+languageCode = "en-us"
+title = "Kayle Gishen"
+theme = "papermod"
+
+[menu]
+  [[menu.main]]
+    identifier = "Tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = -110
+
+[params]
+  defaultTheme = "light"
+  layout = "archives"
+  ShowReadingTime= true
+[params.homeInfoParams]
+  title = "Hi there 👋"
+  content = "I'm an Computer Scientist who loves to create simple solutions to hard problems and this is my blog."
+
