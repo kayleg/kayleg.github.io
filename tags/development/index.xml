@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Kayle Gishen</title>
-    <link>https://kayleg.github.io/tags/development/</link>
+    <link>https://www.kaylegishen.com/tags/development/</link>
     <description>Recent content in Development on Kayle Gishen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2020 16:35:28 -0400</lastBuildDate><atom:link href="https://kayleg.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Sep 2020 16:35:28 -0400</lastBuildDate><atom:link href="https://www.kaylegishen.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a Cirular Layout in SwiftUI</title>
-      <link>https://kayleg.github.io/posts/swiftui-circular-layout/</link>
+      <link>https://www.kaylegishen.com/posts/swiftui-circular-layout/</link>
       <pubDate>Fri, 18 Sep 2020 16:35:28 -0400</pubDate>
       
-      <guid>https://kayleg.github.io/posts/swiftui-circular-layout/</guid>
+      <guid>https://www.kaylegishen.com/posts/swiftui-circular-layout/</guid>
       <description>Hi everyone, I’m going to show you how to create this view in SwiftUI.
 We are going to focus on the layout of the mini circles.
 Before we dive in, I recommend you grab the base code for this example from this gist.

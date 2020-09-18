@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kayle Gishen</title>
-    <link>https://kayleg.github.io/categories/</link>
+    <link>https://www.kaylegishen.com/categories/</link>
     <description>Recent content in Categories on Kayle Gishen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2020 16:35:28 -0400</lastBuildDate><atom:link href="https://kayleg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Sep 2020 16:35:28 -0400</lastBuildDate><atom:link href="https://www.kaylegishen.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://kayleg.github.io/categories/development/</link>
+      <link>https://www.kaylegishen.com/categories/development/</link>
       <pubDate>Fri, 18 Sep 2020 16:35:28 -0400</pubDate>
       
-      <guid>https://kayleg.github.io/categories/development/</guid>
+      <guid>https://www.kaylegishen.com/categories/development/</guid>
       <description></description>
     </item>
     
