@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SwiftUI on Kayle Gishen</title>
+    <link>https://www.kaylegishen.com/tags/swiftui/</link>
+    <description>Recent content in SwiftUI on Kayle Gishen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Sep 2020 16:35:28 -0400</lastBuildDate><atom:link href="https://www.kaylegishen.com/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Cirular Layout in SwiftUI</title>
+      <link>https://www.kaylegishen.com/posts/swiftui-circular-layout/</link>
+      <pubDate>Fri, 18 Sep 2020 16:35:28 -0400</pubDate>
+      
+      <guid>https://www.kaylegishen.com/posts/swiftui-circular-layout/</guid>
+      <description>Hi everyone, I’m going to show you how to create this view in SwiftUI. We are going to focus on the layout of the mini circles.
+Before we dive in, I recommend you grab the base code for this example from this gist.
+First let’s setup a GeometryReader in our base view to get the width of our view and set the dimensions of our background circle. We will need this metric later on when we are positioning our subviews.</description>
+    </item>
+    
+  </channel>
+</rss>
