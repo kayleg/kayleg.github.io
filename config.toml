@@ -4,12 +4,20 @@ title            =  "Kayle Gishen"
 theme            =  "papermod"
 googleAnalytics  =  "UA-316110-8"
 
+[markup.goldmark.renderer]
+unsafe  =  true
+
 [menu]
+  [[menu.main]]
+    identifier  =  "Contact"
+    name        =  "Contact"
+    url         =  "/contact/"
+    weight      =  -110
   [[menu.main]]
     identifier  =  "Tags"
     name        =  "Tags"
     url         =  "/tags/"
-    weight      =  -110
+    weight      =  -100
 
 [params]
   defaultTheme     =  "light"
