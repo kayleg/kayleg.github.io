@@ -17,6 +17,8 @@ _We are going to focus on the layout of the mini circles._
 Before we dive in, I recommend you grab the base code for this example from this
 [gist](https://gist.github.com/kayleg/9926c5f8d169fe5789916ee1abc8484e#file-circlelayoutexercise-swift).
 
+{{< gist kayleg 9926c5f8d169fe5789916ee1abc8484e "CircleLayoutExercise.swift" >}}
+
 First let’s setup a `GeometryReader` in our base view to get the width of our
 view and set the dimensions of our background circle. We will need this metric
 later on when we are positioning our subviews.
