@@ -28,3 +28,10 @@ unsafe  =  true
     title    =  "Hi there 👋"
     content  =  "I'm a Computer Scientist who loves to create simple solutions to hard problems and this is my blog."
 
+  [[params.socialIcons]]
+    name  =  "github"
+    url   =  "https://github.com/kayleg"
+  [[params.socialIcons]]
+    name  =  "linkedin"
+    url   =  "https://www.linkedin.com/in/kayle-gishen-561b823a/"
+
