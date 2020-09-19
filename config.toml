@@ -1,20 +1,22 @@
-baseURL = "https://www.kaylegishen.com/"
-languageCode = "en-us"
-title = "Kayle Gishen"
-theme = "papermod"
+baseURL          =  "https://www.kaylegishen.com/"
+languageCode     =  "en-us"
+title            =  "Kayle Gishen"
+theme            =  "papermod"
+googleAnalytics  =  "UA-316110-8"
 
 [menu]
   [[menu.main]]
-    identifier = "Tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = -110
+    identifier  =  "Tags"
+    name        =  "Tags"
+    url         =  "/tags/"
+    weight      =  -110
 
 [params]
-  defaultTheme = "light"
-  layout = "archives"
-  ShowReadingTime= true
-[params.homeInfoParams]
-  title = "Hi there 👋"
-  content = "I'm a Computer Scientist who loves to create simple solutions to hard problems and this is my blog."
+  defaultTheme     =  "light"
+  layout           =  "archives"
+  ShowReadingTime  =  true
+
+  [params.homeInfoParams]
+    title    =  "Hi there 👋"
+    content  =  "I'm a Computer Scientist who loves to create simple solutions to hard problems and this is my blog."
 
