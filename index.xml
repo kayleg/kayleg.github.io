@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Sep 2020 16:35:28 -0400</lastBuildDate><atom:link href="https://www.kaylegishen.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Get in Touch</title>
+      <link>https://www.kaylegishen.com/contact/</link>
+      <pubDate>Fri, 18 Sep 2020 23:28:36 -0400</pubDate>
+      
+      <guid>https://www.kaylegishen.com/contact/</guid>
+      <description>input, textarea { border-bottom: 1px solid; width: 100%; margin-bottom: 1rem; padding: 0.25rem; } button { text-transform: lowercase; font-weight: light; border: 1px solid; padding: 0.25rem 1rem; transition: 0.2s all; border-radius: 0.25rem; } button:hover { background: #ddd; } button:active { background: #bbb; transform: scale(0.95); }   Send  </description>
+    </item>
+    
+    <item>
       <title>Creating a Cirular Layout in SwiftUI</title>
       <link>https://www.kaylegishen.com/posts/swiftui-circular-layout/</link>
       <pubDate>Fri, 18 Sep 2020 16:35:28 -0400</pubDate>
